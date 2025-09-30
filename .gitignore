@@ -1,0 +1,1 @@
+# Node\nnode_modules/\n.env\n.DS_Store\n*.log\ndist/\nbuild/\n.cache/\ncoverage/\n.vscode/\n.vercel/\n.idea/\n.env.*\n*.local\n
